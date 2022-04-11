@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e6e72d6a5630143488a2ba2c4edd8037
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicToggleButton: {instanceID: 0}
+  - musicOnSprite: {instanceID: 0}
+  - musicOffSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
